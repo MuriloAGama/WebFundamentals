@@ -1,0 +1,26 @@
+.galery {
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 100%;
+    justify-content: space-around;
+}
+
+.galery .photo1 {
+    width: 150px;
+    height: 150px;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    border-radius: 100%;
+    
+}
+.galery .photo2 {
+    width: 150px;
+    height: 150px;
+    animation-iteration-count: infinite;
+    border-radius: 100%;
+}
+
+.galery .photos img {
+    width: 19.9%;
+}
